@@ -16,6 +16,8 @@
 
 ---
 
+## AFTER ALL THE TASKS DONE - DON'T FORGET TO REMOVE API KEYs FROM core/config.json
+
 ## Task overview
 **We need to support Long-term memory for Agent**
 - Agent should store important information about the User
